@@ -1,6 +1,6 @@
-### Task manager app for Appfire Technologies
+# Task manager app for Appfire Technologies
 
-# I created this React app as part of the recrutment proccess in Appfire Technologies. I mangaged full score and got to to do an interview but i was not chosen.
+### I created this React app as part of the recrutment proccess in Appfire Technologies. I mangaged full score and got to to do an interview but i was not chosen.
 
 The task manager application that contains a form in which there is one input for title of the task and one
 text area for description of the task you wish to add. Once this is done click the button Add task and the
