@@ -1,0 +1,55 @@
+.new-task {
+  background-color: #9775fa;
+  padding: 1rem;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+
+  width: 50rem;
+  max-height: 20rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-task__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.new-task__control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+.new-task__control input {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+.new-task__actions {
+  text-align: center;
+}
+.new-task button {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid #5f3dc4;
+  background-color: #5f3dc4;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.new-task button:hover {
+  background-color: #7950f2;
+  color: #fff;
+}
+
+.new-task button:active {
+  background-color: #9775fa;
+  color: #fff;
+}
